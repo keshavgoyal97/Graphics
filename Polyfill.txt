@@ -1,0 +1,5 @@
+  Difference between above two methods:-
+     In case of 8 polygon seed filling algorithm the method using inbuilt function does not work in case of square where as in case of method using own developed algorithm it works. The method using inbuilt function does not fill one of the corners due to which 8 polygon seed filling algorithm does not work.            
+
+
+
